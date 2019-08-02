@@ -1,3 +1,7 @@
 # test
 lines
 loop
+
+for x in records:
+   print(x)
+
