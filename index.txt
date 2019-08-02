@@ -5,3 +5,5 @@ loop
 for x in records:
    print(x)
 
+if x > 9:
+pass
